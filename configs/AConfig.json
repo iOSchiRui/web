@@ -1,6 +1,6 @@
 {
     "version ": "1.0.0",
 	"url": "https://www.baidu.com/",
-	"pass": true,
-	"inner": true
+	"guo": false,
+	"neitiao": false
 }
